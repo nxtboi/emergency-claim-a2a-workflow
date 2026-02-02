@@ -1,0 +1,7 @@
+{
+  "name": "Emergency Claim A2A Workflow",
+  "description": "A high-speed agentic insurance workflow demonstrating the A2A (Agent-to-Agent) handshake between Google Gemini (Vision Analysis) and Salesforce Agentforce (Auto-Approval/AP2 Payments) for flood damage claims.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
